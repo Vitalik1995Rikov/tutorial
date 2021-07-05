@@ -6,3 +6,4 @@
 + components
 + file organization
 + filter repeaters
++ two way data binding
